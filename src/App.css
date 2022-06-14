@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.heropage{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(160, 123, 160);
+  overflow-x: hidden;
+}
+
+.corousel-view{
+  /* height: 100vh; */
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  background: #000;
+  /* margin-top: 10%; */
+}
+
+.corousel{
+  height: 100vh;
+  /* overflow-y: hidden; */
+  background: rgb(160, 123, 160);
+}
+
+.navbg{
+  background-color: rgb(187, 116, 187);
+}
+
+.formm{
+  background-color: rgb(221, 184, 221);
+  height: 100vh;
+}
+
+.signinform{
+  text-align: left;
+  /* border-radius: 10%; */
+  letter-spacing: 1px;
+  background-color: rgb(234, 239, 241);
+  
+}
+
+.signinbtn{
+  background-color: rgb(193, 172, 199);
+  padding: 5px 20px;
+  border: none;
+  border-radius: 4px;
+  margin: 2px;
+}
+
+.footer-text{
+  text-align: center;
+  color: aliceblue;
+}
+
+.caption{
+  color: #000;
+}
+
+#about{
+  margin-top: 10vh;
+  background-color: transparent;
+  border: none;
+}
+
+.addProduct{
+  overflow: auto;
+}
+
+.chart{
+  /* background-color: #fff; */
+  /* height: 50vh; */
+  /* display: flex; */
+}
